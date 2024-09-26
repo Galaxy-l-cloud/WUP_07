@@ -57,7 +57,11 @@ colPerc(table1)
 From the numerical results, 56% of the females remained alive, while 445 of the males died. This leads to 36% of females dying while 64% of males died. When observing the totals from a 100.0, 98.7/100 females lived and 1.4/100 died. 97/100 males lived, and 3/100 males died.
 
 ## Inferential results 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 
