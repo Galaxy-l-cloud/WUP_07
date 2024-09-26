@@ -48,6 +48,12 @@ After observing the data in the graph, the data shows that although there were a
 
   
 ## Numerical results
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
 
 
 ## Inferential results 
