@@ -63,7 +63,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+Three tests were performed to identify if dying from covid is independant of a patients sex.The p-value for the first test 0.001, for the second test the p-value is 0.0012 and for the third test the p-value is 9e-04 indicating the difference in statistical probability of female patients versus male patients in terms of how many died from covid.
 
 ## Conclusions
 
