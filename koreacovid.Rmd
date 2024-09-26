@@ -39,7 +39,7 @@ barchartGC(~result + Sex,data=kRdata, type="percent")
 
 ```
 
-
+After observing the data in the graph, the data shows that although there were about 1800 females to 1400 males that contracted covid, twice as many males died form covid in 2020. The percentage of females that died was about 35% while the percentage of males was well over 60%.
   
 
 
