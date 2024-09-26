@@ -67,3 +67,6 @@ Three tests were performed to identify if dying from covid is independant of a p
 
 ## Conclusions
 
+To observe whether patients in korea who contracted covid died independant of sex we graphed collected data in a barplot, then scripted a numerical summary to show the percentages of the male vs feemales patients that passed. Lastly, we obtained inferential data by running three tests including Pearsons CHi test, Chi square test, and a fisher test.
+
+After carefully analyzing the data from all out data outputs, we saw that the females who contracted covid vs ales that contrated covid. males were twice as probable of dying than females.
